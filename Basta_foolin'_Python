@@ -3,10 +3,7 @@ class Business:
     self.name = name
     self.franchises = franchises
 
-  
-
-
-class Franchise:
+  class Franchise:
   def __init__(self, address, menus):
     self.address= address
     self.menus = menus
@@ -21,8 +18,6 @@ class Franchise:
 
        available_menus.append(menu)
     return available_menus
-
-
 
 class Menu:
   pass
