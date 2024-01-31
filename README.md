@@ -1,3 +1,3 @@
 # 
 Projects
-Coursera test repository
+Small Python, SQL, HTML projects/practice
