@@ -1,4 +1,5 @@
-# create the initial variables below
+# Create the initial variables below
+# Data based gathered from SQL - 'Medical Cost Personal Datasets' https://www.kaggle.com/datasets/mirichoi0218/insurance
 age= 28
 sex=0
 bmi=26.2 
